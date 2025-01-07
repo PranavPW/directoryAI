@@ -1,0 +1,2 @@
+# directoryAI
+AI info
